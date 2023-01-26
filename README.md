@@ -13,3 +13,4 @@ This is a web server with a error page, powered by Node.js and Express
 - **Monitor Timeout:** in **30** seconds
 - Select **Create Monitor** without _alert contacts_
 
+And... you're good to go :)
