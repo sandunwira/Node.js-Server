@@ -1,5 +1,5 @@
 # Node.js-Server
-This is a web server with a error page, powered by Node.js and Express
+This is a web server with a error page for Replit, powered by Node.js and Express
 
 ### To keep this REPL always on, follow these steps:
 
