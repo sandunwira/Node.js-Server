@@ -12,3 +12,4 @@ This is a web server with a error page, powered by Node.js and Express
 - **Monitoring Level:** Every **5** minutes
 - **Monitor Timeout:** in **30** seconds
 - Select **Create Monitor** without _alert contacts_
+
